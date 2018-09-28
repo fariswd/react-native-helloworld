@@ -11,10 +11,9 @@ Getting started to write React Native bridge module for Android.
 
     ```js
     "dependencies": {
-      ...
-      "git+https://github.com/fariswd/react-native-helloworld.git"
-      ...
-  	},
+		...
+		"react-native-helloworld":"git+https://github.com/fariswd/react-native-helloworld.git"
+	},
     ```
 3. Link dependencies:
 
